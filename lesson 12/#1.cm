@@ -1,0 +1,5 @@
+var inches : int
+
+put "Put your measurement in inches "..
+get inches
+put "Your measurement is equalled to ",inches*2.54,"cm."
